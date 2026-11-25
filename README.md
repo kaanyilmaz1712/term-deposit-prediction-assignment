@@ -4,6 +4,7 @@ Take Home Assignment
 ## Project Structure
 
 main.ipynb - Model implementation and project description
+
 report.pdf - Detailed explaination and solution to the assignments in German
 
 ## Installation
